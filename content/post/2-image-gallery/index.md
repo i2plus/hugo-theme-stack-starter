@@ -1,5 +1,5 @@
 ---
-title: 图片库
+title: Image gallery 图片库
 description: 使用 Markdown 创建精美的交互式图片库
 slug: 2-image-gallery
 date: 2024-01-01 20:00:00+0000
