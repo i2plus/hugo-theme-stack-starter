@@ -2,12 +2,12 @@
 title: 2024 新年快乐！
 description: Happy new year 2024！
 slug: happy-new-year
-date: 2023-01-01 00:00:00+0000
+date: 2024-01-01 00:00:00+0000
 image: 2024.jpg
 categories:
     - Daily Blog
 tags:
-    - new year
+    - New Year
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
@@ -17,4 +17,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 愿世界和平，愿万事顺遂！
 
-![fireworks](fireworks.jpg)
+![愿往后生活如烟花般绚烂](fireworks.jpg)

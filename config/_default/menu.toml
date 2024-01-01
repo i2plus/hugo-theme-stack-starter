@@ -22,3 +22,11 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "微博"
+name = "微博"
+url = "https://weibo.com/u/1763868072"
+
+[social.params]
+icon = "brand-weibo"
