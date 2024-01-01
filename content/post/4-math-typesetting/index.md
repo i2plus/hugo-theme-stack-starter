@@ -2,7 +2,7 @@
 title: Math typesetting 数学排版
 description: 使用 KaTeX 进行数学排版
 slug: 4-math-typesetting
-date: 2024-01-01 20:30:00+0000
+date: 2024-01-01 00:00:00+0000
 math: true
 ---
 

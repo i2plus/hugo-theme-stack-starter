@@ -3,7 +3,7 @@ title: Image gallery 图片库
 description: 使用 Markdown 创建精美的交互式图片库
 slug: 2-image-gallery
 date: 2024-01-01 20:00:00+0000
-image: gallery.jfif
+image: gallery.jpg
 ---
 
 Hugo 主题 Stack 支持使用 Markdown 创建交互式图像库。它由 [PhotoSwipe](https://photoswipe.com/) 提供支持，其语法受到 [Typlog](https://typlog.com/) 的启发。
