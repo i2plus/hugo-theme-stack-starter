@@ -1,23 +1,23 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
-date: 2023-08-24 00:00:00+0000
+title: 数学排版
+description: 使用 KaTeX 进行数学排版
+date: 2024-01-01 20:30:00+0000
 math: true
 ---
 
-Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
+Stack 内置了对使用 [KaTeX](https://katex.org/) 进行数学排版的支持
 
-**It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
+**默认情况下，它在整个站点上未启用，** 但您可以通过在前面添加 `math: true` 来为单个帖子启用它。或者，您可以通过将 `math = true` 添加到 `config.toml` 中的 `params.article` 部分来启用它
 
-## Inline math
+## 内联数学
 
-This is an inline mathematical expression: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+这是一个内联数学表达式： $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 
 ```markdown
 $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 ```
 
-## Block math
+## 块数学
 
 $$
     \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 

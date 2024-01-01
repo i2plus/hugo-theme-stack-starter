@@ -1,21 +1,21 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
+title: 图片库
+description: 使用 Markdown 创建精美的交互式图片库
+date: 2024-01-01 20:00:00+0000
 image: 2.jpg
 ---
 
-Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
+Hugo 主题 Stack 支持使用 Markdown 创建交互式图像库。它由 [PhotoSwipe](https://photoswipe.com/) 提供支持，其语法受到 [Typlog](https://typlog.com/) 的启发。
 
-To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo's page bundle feature to read the dimensions of the image. **External images are not supported.**
+要使用此功能，图像必须与 Markdown 文件位于同一目录中，因为它使用 Hugo 的页面捆绑功能来读取图像的尺寸。**不支持外部图像**。
 
-## Syntax
+## 语法
 
 ```markdown
 ![Image 1](1.jpg) ![Image 2](2.jpg)
 ```
 
-## Result
+## 结果
 
 ![Image 1](1.jpg) ![Image 2](2.jpg)
 
