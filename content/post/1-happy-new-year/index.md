@@ -1,14 +1,14 @@
 ---
 title: 2024 新年快乐！
 description: Happy new year 2024！
-slug: happy-new-year
+slug: 1-happy-new-year
 date: 2024-01-01 00:00:00+0000
 image: 2024.jpg
 categories:
     - Daily Blog
 tags:
     - New Year
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 0       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2113257595&auto=1&height=66"></iframe>

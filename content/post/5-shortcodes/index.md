@@ -1,5 +1,5 @@
 ---
-title: 短代码
+title: shortcodes 短代码
 description: 可在 Markdown 中使用的有用短代码
 date: 2024-01-01 20:40:00+0000
 image: cover.jpg
