@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mike Ma 的世界</title><link>https://blog.i2plus.top/post/</link><description>Recent content in Posts on Mike Ma 的世界</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.i2plus.top/post/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 新年快乐！</title><link>https://blog.i2plus.top/p/1-happy-new-year/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/1-happy-new-year/</guid><description>&lt;img src="https://blog.i2plus.top/p/1-happy-new-year/2024.jpg" alt="Featured image of post 2024 新年快乐！" />&lt;iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&amp;id=2113257595&amp;auto=1&amp;height=66">&lt;/iframe>
+&lt;p>告别2023，迎接2024！&lt;/p>
+&lt;p>愿世界和平，愿万事顺遂！&lt;/p>
+&lt;p>&lt;img src="https://blog.i2plus.top/p/1-happy-new-year/fireworks.jpg"
+width="1280"
+height="960"
+srcset="https://blog.i2plus.top/p/1-happy-new-year/fireworks_huba17a540309ee0cb0e11b8cc4fcb117c_331069_480x0_resize_q75_box.jpg 480w, https://blog.i2plus.top/p/1-happy-new-year/fireworks_huba17a540309ee0cb0e11b8cc4fcb117c_331069_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="愿往后生活如烟花般绚烂"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p></description></item><item><title>新域名来啦！</title><link>https://blog.i2plus.top/p/%E6%96%B0%E5%9F%9F%E5%90%8D%E6%9D%A5%E5%95%A6/</link><pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/%E6%96%B0%E5%9F%9F%E5%90%8D%E6%9D%A5%E5%95%A6/</guid><description>&lt;img src="https://blog.i2plus.top/p/%E6%96%B0%E5%9F%9F%E5%90%8D%E6%9D%A5%E5%95%A6/1.jpg" alt="Featured image of post 新域名来啦！" />&lt;iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&amp;id=17706535&amp;auto=1&amp;height=66">&lt;/iframe>
+&lt;p>新的生日域名，好记又便宜！&lt;/p>
+&lt;p>赞一个！&lt;/p></description></item><item><title>Image gallery 图片库</title><link>https://blog.i2plus.top/p/2-image-gallery/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/2-image-gallery/</guid><description>&lt;img src="https://blog.i2plus.top/p/2-image-gallery/gallery.jpg" alt="Featured image of post Image gallery 图片库" />&lt;p>Hugo 主题 Stack 支持使用 Markdown 创建交互式图像库。它由 &lt;a class="link" href="https://photoswipe.com/" target="_blank" rel="noopener"
+>PhotoSwipe&lt;/a> 提供支持，其语法受到 &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
+>Typlog&lt;/a> 的启发。&lt;/p>
+&lt;p>要使用此功能，图像必须与 Markdown 文件位于同一目录中，因为它使用 Hugo 的页面捆绑功能来读取图像的尺寸。&lt;strong>不支持外部图像&lt;/strong>。&lt;/p>
+&lt;h2 id="语法">语法&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Image 1&lt;/span>](&lt;span class="na">1.jpg&lt;/span>) ![&lt;span class="nt">Image 2&lt;/span>](&lt;span class="na">2.jpg&lt;/span>) ![&lt;span class="nt">Image 3&lt;/span>](&lt;span class="na">3.jpg&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="结果">结果&lt;/h2>
+&lt;p>&lt;img src="https://blog.i2plus.top/p/2-image-gallery/1.jpg"
+width="1920"
+height="1080"
+srcset="https://blog.i2plus.top/p/2-image-gallery/1_hub9c925132f3d957804cf2ff6457987da_675766_480x0_resize_q75_box.jpg 480w, https://blog.i2plus.top/p/2-image-gallery/1_hub9c925132f3d957804cf2ff6457987da_675766_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+> &lt;img src="https://blog.i2plus.top/p/2-image-gallery/2.jpg"
+width="1920"
+height="1080"
+srcset="https://blog.i2plus.top/p/2-image-gallery/2_hu01a699b0e1248eee113a218f0876f192_455251_480x0_resize_q75_box.jpg 480w, https://blog.i2plus.top/p/2-image-gallery/2_hu01a699b0e1248eee113a218f0876f192_455251_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 2"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+> &lt;img src="https://blog.i2plus.top/p/2-image-gallery/3.jpg"
+width="1920"
+height="1080"
+srcset="https://blog.i2plus.top/p/2-image-gallery/3_hu13abe1cbcfca302f3eba098a27bfacab_601816_480x0_resize_q75_box.jpg 480w, https://blog.i2plus.top/p/2-image-gallery/3_hu13abe1cbcfca302f3eba098a27bfacab_601816_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 3"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>图片来自于&lt;a class="link" href="https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/" target="_blank" rel="noopener"
+>《刺客信条：奥德赛》&lt;/a>游戏内截图&lt;/p>
+&lt;/blockquote></description></item><item><title>Markdown 语法指南</title><link>https://blog.i2plus.top/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</guid><description>&lt;p>本文提供了可在 Hugo 内容文件中使用的基本 Markdown 语法示例，还展示了 Hugo 主题中是否使用 CSS 装饰基本 HTML 元素。&lt;/p>
+&lt;h2 id="标题">标题&lt;/h2>
+&lt;p>以下的HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code> - &lt;code>&amp;lt;h6&amp;gt;&lt;/code> 元素代表了六个不同级别的章节标题。 &lt;code>&amp;lt;h1&amp;gt;&lt;/code> 是最高级别的标题，而 &lt;code>&amp;lt;h6&amp;gt;&lt;/code> 是最低级别的。&lt;/p>
+&lt;h1 id="h1">H1&lt;/h1>
+&lt;h2 id="h2">H2&lt;/h2>
+&lt;h3 id="h3">H3&lt;/h3>
+&lt;h4 id="h4">H4&lt;/h4>
+&lt;h5 id="h5">H5&lt;/h5>
+&lt;h6 id="h6">H6&lt;/h6>
+&lt;h2 id="段落">段落&lt;/h2>
+&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
+&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
+&lt;h2 id="块引用">块引用&lt;/h2>
+&lt;p>blockquote 元素表示从其他来源引用的内容，可以选择包含必须位于 &lt;code>footer&lt;/code> 或 &lt;code>cite&lt;/code> 元素内的引文，也可以选择包含注释和缩写等内联更改。&lt;/p>
+&lt;h3 id="没有归属的块引用">没有归属的块引用&lt;/h3>
+&lt;blockquote>
+&lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.&lt;br>
+&lt;strong>请注意&lt;/strong>，您可以在块引用中使用 &lt;em>Markdown 语法&lt;/em>。&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="带归属的块引用">带归属的块引用&lt;/h3>
+&lt;blockquote>
+&lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br>
+译：不要通过共享内存来通信，而是通过通信来共享内存。&lt;br>
+— &lt;cite>Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="表格">表格&lt;/h2>
+&lt;p>表格不是核心 Markdown 规范的一部分，但 Hugo 支持开箱即用。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>姓名&lt;/th>
+&lt;th>年龄&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>小红&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>小明&lt;/td>
+&lt;td>23&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="表格内内联-markdown">表格内内联 Markdown&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>斜体&lt;/th>
+&lt;th>加粗&lt;/th>
+&lt;th>代码&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>italics&lt;/em>&lt;/td>
+&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
+&lt;td>&lt;code>code&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>A&lt;/th>
+&lt;th>B&lt;/th>
+&lt;th>C&lt;/th>
+&lt;th>D&lt;/th>
+&lt;th>E&lt;/th>
+&lt;th>F&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td>
+&lt;td>Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td>
+&lt;td>Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td>
+&lt;td>Proin sit amet velit nec enim imperdiet vehicula.&lt;/td>
+&lt;td>Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td>
+&lt;td>Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="代码块">代码块&lt;/h2>
+&lt;h3 id="带反引号的代码块">带反引号的代码块&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&amp;lt;!doctype html&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span> &lt;span class="na">lang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;en&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">charset&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Example HTML5 Document&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Test&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="代码块缩进四个空格">代码块缩进四个空格&lt;/h3>
+&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;h3 id="差异代码块">差异代码块&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">[dependencies.bevy]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gd">- features = [&amp;#34;dynamic&amp;#34;]
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gd">&lt;/span>&lt;span class="gi">+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="一行代码块">一行代码块&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>A paragraph&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="列表类型">列表类型&lt;/h2>
+&lt;h3 id="有序列表">有序列表&lt;/h3>
+&lt;ol>
+&lt;li>第一项&lt;/li>
+&lt;li>第二项&lt;/li>
+&lt;li>第三项&lt;/li>
+&lt;/ol>
+&lt;h3 id="无序列表">无序列表&lt;/h3>
+&lt;ul>
+&lt;li>项目清单&lt;/li>
+&lt;li>另一项&lt;/li>
+&lt;li>还有另一项&lt;/li>
+&lt;/ul>
+&lt;h3 id="嵌套列表">嵌套列表&lt;/h3>
+&lt;ul>
+&lt;li>水果
+&lt;ul>
+&lt;li>苹果&lt;/li>
+&lt;li>橙子&lt;/li>
+&lt;li>香蕉&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>奶制品
+&lt;ul>
+&lt;li>牛奶&lt;/li>
+&lt;li>奶酪&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="其他元素---abbr-sub-sup-kbd-mark">其他元素 — abbr, sub, sup, kbd, mark&lt;/h2>
+&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> 是一种位图图像格式.&lt;/p>
+&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
+&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
+&lt;p>按 &lt;kbd>CTRL&lt;/kbd> + &lt;kbd>ALT&lt;/kbd> + &lt;kbd>Delete&lt;/kbd> 结束会话.&lt;/p>
+&lt;p>大多数&lt;mark>蝾螈&lt;/mark>是夜间活动的，捕食昆虫、蠕虫和其他小生物&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>以上引文摘自 Rob Pike 在 2015 年 11 月 18 日 Gopherfest 期间的&lt;a class="link" href="https://www.youtube.com/watch?v=PAAkCSZUG1c" target="_blank" rel="noopener"
+>演讲&lt;/a>。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>Math typesetting 数学排版</title><link>https://blog.i2plus.top/p/4-math-typesetting/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/4-math-typesetting/</guid><description>&lt;p>Stack 内置了对使用 &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+>KaTeX&lt;/a> 进行数学排版的支持&lt;/p>
+&lt;p>&lt;strong>默认情况下，它在整个站点上未启用，&lt;/strong> 但您可以通过在前面添加 &lt;code>math: true&lt;/code> 来为单个帖子启用它。或者，您可以通过将 &lt;code>math = true&lt;/code> 添加到 &lt;code>config.toml&lt;/code> 中的 &lt;code>params.article&lt;/code> 部分来启用它&lt;/p>
+&lt;h2 id="内联数学">内联数学&lt;/h2>
+&lt;p>这是一个内联数学表达式： $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="块数学">块数学&lt;/h2>
+&lt;p>$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi
+$$&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">$$
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>shortcodes 短代码</title><link>https://blog.i2plus.top/p/shortcodes-%E7%9F%AD%E4%BB%A3%E7%A0%81/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.i2plus.top/p/shortcodes-%E7%9F%AD%E4%BB%A3%E7%A0%81/</guid><description>&lt;img src="https://blog.i2plus.top/p/shortcodes-%E7%9F%AD%E4%BB%A3%E7%A0%81/cover.jpg" alt="Featured image of post shortcodes 短代码" />&lt;p>有关更多详细信息，请查看&lt;a class="link" href="https://stack.jimmycai.com/writing/shortcodes" target="_blank" rel="noopener"
+>文档&lt;/a>.&lt;/p>
+&lt;h2 id="b站视频">B站视频&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1d4411N7zD"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="腾讯视频">腾讯视频&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://v.qq.com/txp/iframe/player.html?vid=g0014r3khdw&amp;auto=0"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="油管视频">油管视频&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/0qwALOOvUik"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="通用视频文件">通用视频文件&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;video
+controls
+src="https://www.w3schools.com/tags/movie.mp4"
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="https://www.w3schools.com/tags/movie.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;h2 id="gist">Gist&lt;/h2>
+&lt;script src="https://gist.github.com/CaiJimmy/e2751a943de10b2a5b3a8a6c2120cb86.js">&lt;/script>
+&lt;h2 id="gitlab">GitLab&lt;/h2>
+&lt;script
+type="application/javascript"
+src="https://gitlab.com/-/snippets/2589724.js"
+>&lt;/script>
+&lt;h2 id="引用">引用&lt;/h2>
+&lt;blockquote>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>A famous person, &lt;/span>&lt;a href="https://en.wikipedia.org/wiki/Book">&lt;cite>The book they wrote&lt;/cite>&lt;/a>&lt;/span>&lt;/blockquote>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@codioful" target="_blank" rel="noopener"
+>Codioful&lt;/a> on &lt;a class="link" href="https://unsplash.com/photos/WDSN62Qdxuk" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
