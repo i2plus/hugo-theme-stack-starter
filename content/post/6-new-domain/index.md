@@ -1,7 +1,7 @@
 ---
 title: 新域名来啦！
 description: 生日域名还是挺便宜的！
-date: 2024-01-09 21:30:00+0000
+date: 2024-01-09 00:00:00+0000
 image: 1.jpg
 categories:
     - Daily Blog
